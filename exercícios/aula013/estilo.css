@@ -21,4 +21,16 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
+    background-color: rgba(0, 0, 0, 0.483) ;
+    border-radius: 30px;
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+footer:hover {
+    background-color: green;
+    color: yellow;
 }
