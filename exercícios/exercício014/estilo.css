@@ -1,3 +1,7 @@
+** {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 body {
     background: rgb(47, 47, 240);
     font: normal 15pt arial;
@@ -24,10 +28,27 @@ footer {
     background-color: rgba(0, 0, 0, 0.483) ;
     border-radius: 30px;
 }
+input#verificar {
+    height: 100px;
+    width: 300px;
+    border-radius: 100px;
+    background: blue;
+}
+
+input#verificar:hover {
+    text-align: center;
+    background-color: red;
+    transition-duration: 0.75s;
+}
 
 div {
     text-align: center;
     padding: 8px;
+}
+
+div#res {
+    background-color: brown;
+    border-radius: 100px;
 }
 
 footer:hover {
