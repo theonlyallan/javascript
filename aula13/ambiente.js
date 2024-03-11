@@ -17,18 +17,11 @@ console.log('FIM!!')
 
 
 
-
-
-
 /*while (c <= 6) {
     console.log(`Passo ${c}`)
     c++   
 } 
 */
-
-
-
-
 
 
 
